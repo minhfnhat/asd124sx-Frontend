@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Efficiency Redefined: Experience seamless productivity like never before.",
+        "title": "Transform Your Workday with AAA"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Efficiency Redefined: Experience seamless productivity like never before.",
+        "title": "Transform Your Workday with AAA"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Efficiency Redefined: Experience seamless productivity like never before.",
+        "title": "Transform Your Workday with AAA"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Efficiency Redefined: Experience seamless productivity like never before.",
+        "title": "Transform Your Workday with AAA"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Efficiency Redefined: Experience seamless productivity like never before.",
+        "title": "Transform Your Workday with AAA"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Efficiency Redefined: Experience seamless productivity like never before.",
+        "title": "Transform Your Workday with AAA"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Efficiency Redefined: Experience seamless productivity like never before.",
+        "title": "Transform Your Workday with AAA"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Efficiency Redefined: Experience seamless productivity like never before.",
+        "title": "Transform Your Workday with AAA"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Efficiency Redefined: Experience seamless productivity like never before.",
+        "title": "Transform Your Workday with AAA"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Transform Your Workday with AAA",
+  "subtitle": "Efficiency Redefined: Experience seamless productivity like never before."
+}
